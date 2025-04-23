@@ -5,17 +5,17 @@
   },  
  
   "@fortawesome/fontawesome-free": {
-    "src": "js/all.min.js",
+    "src": "",
     "dest": "fontawesome"
   },
 
   "@popperjs": {
-    "src": "core/dist/umd/popper.min.js",
+    "src": "",
     "dest": "@popperjs"
   },
 
   "is_js": {
-    "src": "is.min.js",
+    "src": "",
     "dest": "is"
   }
 }
